@@ -153919,5 +153919,23 @@
         "99.0": 0
       }
     }
+  },
+  {
+    "source": {
+      "cui": "M0040923",
+      "kind": "CONDITION",
+      "prior": 0.00319
+    },
+    "destination": {
+      "cui": "C0079399",
+      "kind": "FACTOR",
+      "prior": 0
+    },
+    "probability": {
+      "values": {
+        "f": 0,
+        "m": 2
+      }
+    }
   }
 ]
